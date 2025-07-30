@@ -1,11 +1,11 @@
 ## Heyyo, I'm <a href="suzulaenzo.github.io/EnzoSuzula/" target="_blank">Enzo Suzula</a>!
 (Use dark theme to find my socials ;)
 
-<a href="suzulaenzo.github.io/EnzoSuzula/" target="_blank"><img align="left" alt="aakarsh.me" width="22px" 
+<a href="https://suzulaenzo.github.io/EnzoSuzula/" target="_blank"><img align="left" alt="Enzo Suzula | Portfolio " width="22px" 
 src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/suzulaenzo" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" 
+<a href="https://www.linkedin.com/in/suzulaenzo" target="_blank"><img align="left" alt="Enzo Suzula | LinkedIn" width="22px" 
 src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 </a>
 
@@ -13,7 +13,7 @@ src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 </a>
 
-<a href="mailto:suzulaenzo@gmail.com" target="_blank"> <img align="left" alt="Gmail" width="23.5px" 
+<a href="mailto:suzulaenzo@gmail.com" target="_blank"> <img align="left" alt="Enzo Suzula | Gmail" width="23.5px" 
 src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg"/>
 </a>
 
